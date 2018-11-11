@@ -5,4 +5,4 @@ In this repository, you can find the assignment solution for the Udemy course "D
 This docker image is ready for you to start writing scripts in Python with Vim on Ubuntu.
 
 ## How to use
-docker run -it rlafuente/python-vim-ubuntu
+docker run -it ralafuente/python-vim-ubuntu
